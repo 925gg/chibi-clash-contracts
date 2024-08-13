@@ -1,0 +1,712 @@
+[
+  {
+    "name": "Ecosystem Rewards",
+    "tokensAllocated": 1500000000,
+    "tokensUnassigned": 0,
+    "tgePercentX100": 1000,
+    "cliffDurationInMonths": 0,
+    "vestingDurationInMonths": 30,
+    "vestingPercentX100": 9000,
+    "unlockEvents": [
+      { "percentX100": 1000, "unlockTime": 1723248000 },
+      { "percentX100": 300, "unlockTime": 1725926400 },
+      { "percentX100": 300, "unlockTime": 1728518400 },
+      { "percentX100": 300, "unlockTime": 1731196800 },
+      { "percentX100": 300, "unlockTime": 1733788800 },
+      { "percentX100": 300, "unlockTime": 1736467200 },
+      { "percentX100": 300, "unlockTime": 1739145600 },
+      { "percentX100": 300, "unlockTime": 1741564800 },
+      { "percentX100": 300, "unlockTime": 1744243200 },
+      { "percentX100": 300, "unlockTime": 1746835200 },
+      { "percentX100": 300, "unlockTime": 1749513600 },
+      { "percentX100": 300, "unlockTime": 1752105600 },
+      { "percentX100": 300, "unlockTime": 1754784000 },
+      { "percentX100": 300, "unlockTime": 1757462400 },
+      { "percentX100": 300, "unlockTime": 1760054400 },
+      { "percentX100": 300, "unlockTime": 1762732800 },
+      { "percentX100": 300, "unlockTime": 1765324800 },
+      { "percentX100": 300, "unlockTime": 1768003200 },
+      { "percentX100": 300, "unlockTime": 1770681600 },
+      { "percentX100": 300, "unlockTime": 1773100800 },
+      { "percentX100": 300, "unlockTime": 1775779200 },
+      { "percentX100": 300, "unlockTime": 1778371200 },
+      { "percentX100": 300, "unlockTime": 1781049600 },
+      { "percentX100": 300, "unlockTime": 1783641600 },
+      { "percentX100": 300, "unlockTime": 1786320000 },
+      { "percentX100": 300, "unlockTime": 1788998400 },
+      { "percentX100": 300, "unlockTime": 1791590400 },
+      { "percentX100": 300, "unlockTime": 1794268800 },
+      { "percentX100": 300, "unlockTime": 1796860800 },
+      { "percentX100": 300, "unlockTime": 1799539200 },
+      { "percentX100": 300, "unlockTime": 1802217600 }
+    ],
+    "members": [
+      {
+        "name": "Ecosystem Rewards Treasury",
+        "address": "0xCe9a1D9bCeBAbA07971590daD70131Ccb3934c96",
+        "tokensAllocated": 1500000000,
+        "assigned": false
+      }
+    ],
+    "daysBeforeTge": 3
+  },
+  {
+    "name": "Treasury/Ecosystem Fund",
+    "tokensAllocated": 1500000000,
+    "tokensUnassigned": 0,
+    "tgePercentX100": 1000,
+    "cliffDurationInMonths": 0,
+    "vestingDurationInMonths": 38,
+    "vestingPercentX100": 9000,
+    "unlockEvents": [
+      { "percentX100": 1000, "unlockTime": 1723248000 },
+      { "percentX100": 236, "unlockTime": 1725926400 },
+      { "percentX100": 236, "unlockTime": 1728518400 },
+      { "percentX100": 236, "unlockTime": 1731196800 },
+      { "percentX100": 236, "unlockTime": 1733788800 },
+      { "percentX100": 236, "unlockTime": 1736467200 },
+      { "percentX100": 236, "unlockTime": 1739145600 },
+      { "percentX100": 236, "unlockTime": 1741564800 },
+      { "percentX100": 236, "unlockTime": 1744243200 },
+      { "percentX100": 236, "unlockTime": 1746835200 },
+      { "percentX100": 236, "unlockTime": 1749513600 },
+      { "percentX100": 236, "unlockTime": 1752105600 },
+      { "percentX100": 236, "unlockTime": 1754784000 },
+      { "percentX100": 236, "unlockTime": 1757462400 },
+      { "percentX100": 236, "unlockTime": 1760054400 },
+      { "percentX100": 236, "unlockTime": 1762732800 },
+      { "percentX100": 236, "unlockTime": 1765324800 },
+      { "percentX100": 236, "unlockTime": 1768003200 },
+      { "percentX100": 236, "unlockTime": 1770681600 },
+      { "percentX100": 236, "unlockTime": 1773100800 },
+      { "percentX100": 236, "unlockTime": 1775779200 },
+      { "percentX100": 236, "unlockTime": 1778371200 },
+      { "percentX100": 236, "unlockTime": 1781049600 },
+      { "percentX100": 236, "unlockTime": 1783641600 },
+      { "percentX100": 236, "unlockTime": 1786320000 },
+      { "percentX100": 236, "unlockTime": 1788998400 },
+      { "percentX100": 236, "unlockTime": 1791590400 },
+      { "percentX100": 236, "unlockTime": 1794268800 },
+      { "percentX100": 236, "unlockTime": 1796860800 },
+      { "percentX100": 236, "unlockTime": 1799539200 },
+      { "percentX100": 236, "unlockTime": 1802217600 },
+      { "percentX100": 236, "unlockTime": 1804636800 },
+      { "percentX100": 236, "unlockTime": 1807315200 },
+      { "percentX100": 236, "unlockTime": 1809907200 },
+      { "percentX100": 236, "unlockTime": 1812585600 },
+      { "percentX100": 236, "unlockTime": 1815177600 },
+      { "percentX100": 236, "unlockTime": 1817856000 },
+      { "percentX100": 236, "unlockTime": 1820534400 },
+      { "percentX100": 268, "unlockTime": 1823126400 }
+    ],
+    "members": [
+      {
+        "name": "Treasury/Ecosystem Fund Treasury",
+        "address": "0x0AeCa29FAe3785d2aE43CC8472dDbde22d933036",
+        "tokensAllocated": 1500000000,
+        "assigned": false
+      }
+    ],
+    "daysBeforeTge": 3
+  },
+  {
+    "name": "Team",
+    "tokensAllocated": 726750000,
+    "tokensUnassigned": 0,
+    "tgePercentX100": 0,
+    "cliffDurationInMonths": 6,
+    "vestingDurationInMonths": 32,
+    "vestingPercentX100": 10000,
+    "unlockEvents": [
+      { "percentX100": 0, "unlockTime": 1723507200 },
+      { "percentX100": 0, "unlockTime": 1739404800 },
+      { "percentX100": 312, "unlockTime": 1741824000 },
+      { "percentX100": 312, "unlockTime": 1744502400 },
+      { "percentX100": 312, "unlockTime": 1747094400 },
+      { "percentX100": 312, "unlockTime": 1749772800 },
+      { "percentX100": 312, "unlockTime": 1752364800 },
+      { "percentX100": 312, "unlockTime": 1755043200 },
+      { "percentX100": 312, "unlockTime": 1757721600 },
+      { "percentX100": 312, "unlockTime": 1760313600 },
+      { "percentX100": 312, "unlockTime": 1762992000 },
+      { "percentX100": 312, "unlockTime": 1765584000 },
+      { "percentX100": 312, "unlockTime": 1768262400 },
+      { "percentX100": 312, "unlockTime": 1770940800 },
+      { "percentX100": 312, "unlockTime": 1773360000 },
+      { "percentX100": 312, "unlockTime": 1776038400 },
+      { "percentX100": 312, "unlockTime": 1778630400 },
+      { "percentX100": 312, "unlockTime": 1781308800 },
+      { "percentX100": 312, "unlockTime": 1783900800 },
+      { "percentX100": 312, "unlockTime": 1786579200 },
+      { "percentX100": 312, "unlockTime": 1789257600 },
+      { "percentX100": 312, "unlockTime": 1791849600 },
+      { "percentX100": 312, "unlockTime": 1794528000 },
+      { "percentX100": 312, "unlockTime": 1797120000 },
+      { "percentX100": 312, "unlockTime": 1799798400 },
+      { "percentX100": 312, "unlockTime": 1802476800 },
+      { "percentX100": 312, "unlockTime": 1804896000 },
+      { "percentX100": 312, "unlockTime": 1807574400 },
+      { "percentX100": 312, "unlockTime": 1810166400 },
+      { "percentX100": 312, "unlockTime": 1812844800 },
+      { "percentX100": 312, "unlockTime": 1815436800 },
+      { "percentX100": 312, "unlockTime": 1818115200 },
+      { "percentX100": 312, "unlockTime": 1820793600 },
+      { "percentX100": 328, "unlockTime": 1823385600 }
+    ],
+    "members": [
+      {
+        "name": "User 1",
+        "address": "0xcFF7542c8D9B260f0E4D96d3a330b1B42018BAeF",
+        "tokensAllocated": 100000000,
+        "assigned": false
+      },
+      {
+        "name": "User 2",
+        "address": "0x5FD4FdCbd4Dc8704e144De57e16D73b10e31E81D",
+        "tokensAllocated": 100000000,
+        "assigned": false
+      },
+      {
+        "name": "User 3",
+        "address": "0xC6AD99CECf62D6a8deb91f874F50fa2F259Cbed4",
+        "tokensAllocated": 5000000,
+        "assigned": false
+      },
+      {
+        "name": "User 4",
+        "address": "0xb6bf4BC260c04b190B22d4d9a833eDC0A743ECa8",
+        "tokensAllocated": 5000000,
+        "assigned": false
+      },
+      { "name": "User 5", "tokensAllocated": 3000000, "assigned": false },
+      {
+        "name": "User 6",
+        "address": "0x8d3c8186544aE4A14A9D7733564bffd3039666bD",
+        "tokensAllocated": 25000000,
+        "assigned": false
+      },
+      {
+        "name": "User 7",
+        "address": "0x6AD194C77E718fe55206feeeb1092c6A389d96F8",
+        "tokensAllocated": 17500000,
+        "assigned": false
+      },
+      {
+        "name": "User 8",
+        "address": "0x0D269A3e2df7208f6Fa9f61Fb874e853dFA4EBE9",
+        "tokensAllocated": 5000000,
+        "assigned": false
+      },
+      { "name": "User 9", "tokensAllocated": 1000000, "assigned": false },
+      { "name": "User 10", "tokensAllocated": 12500000, "assigned": false },
+      {
+        "name": "User 11",
+        "address": "0x89955Ad8fc009374949d9FBa93Bc497aB102bF4C",
+        "tokensAllocated": 17500000,
+        "assigned": false
+      },
+      { "name": "User 12", "tokensAllocated": 5000000, "assigned": false },
+      { "name": "User 13", "tokensAllocated": 3000000, "assigned": false },
+      {
+        "name": "User 14",
+        "address": "0x38F5115CD7eaB585531083C17851f53e1A299D8B",
+        "tokensAllocated": 12500000,
+        "assigned": false
+      },
+      {
+        "name": "User 15",
+        "address": "0x5Db695F4C6Fdc34B16A8eDc405FA67EA3228bd27",
+        "tokensAllocated": 12500000,
+        "assigned": false
+      },
+      {
+        "name": "User 16",
+        "address": "0x70d6eB2B3b9a2a7D6D67c3f24c246BFFC05b48Ca",
+        "tokensAllocated": 12500000,
+        "assigned": false
+      },
+      {
+        "name": "User 17",
+        "address": "0xa16949014c4f74a383CAC386AeeF5326ce860058",
+        "tokensAllocated": 17500000,
+        "assigned": false
+      },
+      { "name": "User 18", "tokensAllocated": 3000000, "assigned": false },
+      { "name": "User 19", "tokensAllocated": 2000000, "assigned": false },
+      {
+        "name": "User 20",
+        "address": "0xb8768144f215b47f78a7f4dE1A9642b48b8a4bb3",
+        "tokensAllocated": 3000000,
+        "assigned": false
+      },
+      {
+        "name": "User 21",
+        "address": "0xAb03B8aA70279583d64419DaDA780b67036c3334",
+        "tokensAllocated": 5000000,
+        "assigned": false
+      },
+      { "name": "User 22", "tokensAllocated": 10000000, "assigned": false },
+      { "name": "User 23", "tokensAllocated": 5000000, "assigned": false },
+      {
+        "name": "User 24",
+        "address": "0x8416Ea2175E02844834E94D118C94b6E664Efe5A",
+        "tokensAllocated": 5000000,
+        "assigned": false
+      },
+      {
+        "name": "User 25",
+        "address": "0xF174896DA2A53a59Cdd30a9D0f3269f33eAdC415",
+        "tokensAllocated": 339250000,
+        "assigned": false
+      }
+    ],
+    "daysBeforeTge": 0
+  },
+  {
+    "name": "Investors",
+    "tokensAllocated": 647000000,
+    "tokensUnassigned": 0,
+    "tgePercentX100": 400,
+    "cliffDurationInMonths": 1,
+    "vestingDurationInMonths": 18,
+    "vestingPercentX100": 9600,
+    "unlockEvents": [
+      { "percentX100": 400, "unlockTime": 1723507200 },
+      { "percentX100": 0, "unlockTime": 1726185600 },
+      { "percentX100": 533, "unlockTime": 1728777600 },
+      { "percentX100": 533, "unlockTime": 1731456000 },
+      { "percentX100": 533, "unlockTime": 1734048000 },
+      { "percentX100": 533, "unlockTime": 1736726400 },
+      { "percentX100": 533, "unlockTime": 1739404800 },
+      { "percentX100": 533, "unlockTime": 1741824000 },
+      { "percentX100": 533, "unlockTime": 1744502400 },
+      { "percentX100": 533, "unlockTime": 1747094400 },
+      { "percentX100": 533, "unlockTime": 1749772800 },
+      { "percentX100": 533, "unlockTime": 1752364800 },
+      { "percentX100": 533, "unlockTime": 1755043200 },
+      { "percentX100": 533, "unlockTime": 1757721600 },
+      { "percentX100": 533, "unlockTime": 1760313600 },
+      { "percentX100": 533, "unlockTime": 1762992000 },
+      { "percentX100": 533, "unlockTime": 1765584000 },
+      { "percentX100": 533, "unlockTime": 1768262400 },
+      { "percentX100": 533, "unlockTime": 1770940800 },
+      { "percentX100": 539, "unlockTime": 1773360000 }
+    ],
+    "members": [
+      {
+        "name": "User 32",
+        "address": "0x5783151D26c8219A2eD14e74057355A66e6DCF61",
+        "tokensAllocated": 50000000,
+        "assigned": false
+      },
+      { "name": "User 33", "tokensAllocated": 50000000, "assigned": false },
+      { "name": "User 34", "tokensAllocated": 50000000, "assigned": false },
+      {
+        "name": "User 35",
+        "address": "0x55E1e020Ca8f589b691Dbc3E9CBCe8845a400f97",
+        "tokensAllocated": 20000000,
+        "assigned": false
+      },
+      {
+        "name": "User 36",
+        "address": "0xF8A367e0F5d3faD40039F10B39ed28E8f9fa625e",
+        "tokensAllocated": 20000000,
+        "assigned": false
+      },
+      {
+        "name": "User 37",
+        "address": "0xf53703926F3B584762dB8c7B870512FF65801c87",
+        "tokensAllocated": 16800000,
+        "assigned": false
+      },
+      {
+        "name": "User 38",
+        "address": "0x8862e5fe6E4fb048e922d1BE52618D85ab24CcD7",
+        "tokensAllocated": 3200000,
+        "assigned": false
+      },
+      {
+        "name": "User 39",
+        "address": "0xCe90a7949bb78892F159F428D0dC23a8E3584d75",
+        "tokensAllocated": 20000000,
+        "assigned": false
+      },
+      {
+        "name": "User 40",
+        "address": "0xDc66C89637E1Ad29E5151BBd19cF0A8232c17ce2",
+        "tokensAllocated": 20000000,
+        "assigned": false
+      },
+      { "name": "User 41", "tokensAllocated": 60000000, "assigned": false },
+      {
+        "name": "User 42",
+        "address": "0xf1cBbe4040bA1Ac2C8D74702453A7DDD057eA6F7",
+        "tokensAllocated": 50000000,
+        "assigned": false
+      },
+      {
+        "name": "User 43",
+        "address": "0x4344864c501287B881CdBD18943a8fd56Ca50E5A",
+        "tokensAllocated": 6000000,
+        "assigned": false
+      },
+      {
+        "name": "User 44",
+        "address": "0x41e8CC804C413f86DcfE7f0423c5cc10Bf9e3A6C",
+        "tokensAllocated": 10000000,
+        "assigned": false
+      },
+      {
+        "name": "User 45",
+        "address": "0xE30221bA49E6d2eF1bCE23bB7262A1aE5f3ffB99",
+        "tokensAllocated": 20000000,
+        "assigned": false
+      },
+      {
+        "name": "User 46",
+        "address": "0x53F470A909d7CE7f35e62f4470fD440B1eD5D8CD",
+        "tokensAllocated": 30000000,
+        "assigned": false
+      },
+      {
+        "name": "User 47",
+        "address": "0xFDd4f4923EA5714F88faFBfA0801D87d63C7Ce73",
+        "tokensAllocated": 10000000,
+        "assigned": false
+      },
+      { "name": "User 48", "tokensAllocated": 50000000, "assigned": false },
+      { "name": "User 49", "tokensAllocated": 10000000, "assigned": false },
+      {
+        "name": "User 50",
+        "address": "0x17ec047622C000Df03599026A3B39871EC9384DB",
+        "tokensAllocated": 20000000,
+        "assigned": false
+      },
+      { "name": "User 51", "tokensAllocated": 14000000, "assigned": false },
+      { "name": "User 52", "tokensAllocated": 10000000, "assigned": false },
+      {
+        "name": "User 53",
+        "address": "0x8E3bDb7B9C263757Bd4419edeC36146E02050713",
+        "tokensAllocated": 30000000,
+        "assigned": false
+      },
+      {
+        "name": "User 54",
+        "address": "0xD0493dBccca78104AC94821A500dcF85F40e4dd3",
+        "tokensAllocated": 10000000,
+        "assigned": false
+      },
+      { "name": "User 55", "tokensAllocated": 8000000, "assigned": false },
+      {
+        "name": "User 56",
+        "address": "0x8493dDB9e976B416201D32B974f941f03002bEdF",
+        "tokensAllocated": 20000000,
+        "assigned": false
+      },
+      {
+        "name": "User 57",
+        "address": "0x690E3c4713546F346954cEb838A3f34c86E0BE05",
+        "tokensAllocated": 20000000,
+        "assigned": false
+      },
+      {
+        "name": "User 58",
+        "address": "0xA2879B11D45e53E6C0a9a3738674A1fd6BBaD5C7",
+        "tokensAllocated": 8000000,
+        "assigned": false
+      },
+      { "name": "User 59", "tokensAllocated": 3000000, "assigned": false },
+      {
+        "name": "User 60",
+        "address": "0xF0340Bb594530E6d073aA0A1A8f584995f2Cb02E",
+        "tokensAllocated": 4000000,
+        "assigned": false
+      },
+      {
+        "name": "User 61",
+        "address": "0x6108AA0F66e287bddEe8296DeCc14b7Eec038Dfa",
+        "tokensAllocated": 4000000,
+        "assigned": false
+      }
+    ],
+    "daysBeforeTge": 0
+  },
+  {
+    "name": "Advisors/Contributors",
+    "tokensAllocated": 226250000,
+    "tokensUnassigned": 0,
+    "tgePercentX100": 0,
+    "cliffDurationInMonths": 6,
+    "vestingDurationInMonths": 32,
+    "vestingPercentX100": 10000,
+    "unlockEvents": [
+      { "percentX100": 0, "unlockTime": 1723507200 },
+      { "percentX100": 0, "unlockTime": 1739404800 },
+      { "percentX100": 312, "unlockTime": 1741824000 },
+      { "percentX100": 312, "unlockTime": 1744502400 },
+      { "percentX100": 312, "unlockTime": 1747094400 },
+      { "percentX100": 312, "unlockTime": 1749772800 },
+      { "percentX100": 312, "unlockTime": 1752364800 },
+      { "percentX100": 312, "unlockTime": 1755043200 },
+      { "percentX100": 312, "unlockTime": 1757721600 },
+      { "percentX100": 312, "unlockTime": 1760313600 },
+      { "percentX100": 312, "unlockTime": 1762992000 },
+      { "percentX100": 312, "unlockTime": 1765584000 },
+      { "percentX100": 312, "unlockTime": 1768262400 },
+      { "percentX100": 312, "unlockTime": 1770940800 },
+      { "percentX100": 312, "unlockTime": 1773360000 },
+      { "percentX100": 312, "unlockTime": 1776038400 },
+      { "percentX100": 312, "unlockTime": 1778630400 },
+      { "percentX100": 312, "unlockTime": 1781308800 },
+      { "percentX100": 312, "unlockTime": 1783900800 },
+      { "percentX100": 312, "unlockTime": 1786579200 },
+      { "percentX100": 312, "unlockTime": 1789257600 },
+      { "percentX100": 312, "unlockTime": 1791849600 },
+      { "percentX100": 312, "unlockTime": 1794528000 },
+      { "percentX100": 312, "unlockTime": 1797120000 },
+      { "percentX100": 312, "unlockTime": 1799798400 },
+      { "percentX100": 312, "unlockTime": 1802476800 },
+      { "percentX100": 312, "unlockTime": 1804896000 },
+      { "percentX100": 312, "unlockTime": 1807574400 },
+      { "percentX100": 312, "unlockTime": 1810166400 },
+      { "percentX100": 312, "unlockTime": 1812844800 },
+      { "percentX100": 312, "unlockTime": 1815436800 },
+      { "percentX100": 312, "unlockTime": 1818115200 },
+      { "percentX100": 312, "unlockTime": 1820793600 },
+      { "percentX100": 328, "unlockTime": 1823385600 }
+    ],
+    "members": [
+      { "name": "User 26", "tokensAllocated": 100000000, "assigned": false },
+      {
+        "name": "User 27",
+        "address": "0xd1C21721EdFFA71C32ab08C22dBF98eBa695f0F7",
+        "tokensAllocated": 12500000,
+        "assigned": false
+      },
+      {
+        "name": "User 28",
+        "address": "0xD0493dBccca78104AC94821A500dcF85F40e4dd3",
+        "tokensAllocated": 37500000,
+        "assigned": false
+      },
+      { "name": "User 29", "tokensAllocated": 1250000, "assigned": false },
+      {
+        "name": "User 30",
+        "address": "0x1840d787861619731b51835a5ADD4a05Db9549fc",
+        "tokensAllocated": 50000000,
+        "assigned": false
+      },
+      { "name": "User 31", "tokensAllocated": 25000000, "assigned": false }
+    ],
+    "daysBeforeTge": 0
+  },
+  {
+    "name": "KOL/Strategic Partners",
+    "tokensAllocated": 50000000,
+    "tokensUnassigned": 28916676,
+    "tgePercentX100": 1000,
+    "cliffDurationInMonths": 0,
+    "vestingDurationInMonths": 6,
+    "vestingPercentX100": 9000,
+    "unlockEvents": [
+      { "percentX100": 1000, "unlockTime": 1723507200 },
+      { "percentX100": 1500, "unlockTime": 1726185600 },
+      { "percentX100": 1500, "unlockTime": 1728777600 },
+      { "percentX100": 1500, "unlockTime": 1731456000 },
+      { "percentX100": 1500, "unlockTime": 1734048000 },
+      { "percentX100": 1500, "unlockTime": 1736726400 },
+      { "percentX100": 1500, "unlockTime": 1739404800 }
+    ],
+    "members": [
+      {
+        "name": "User 62",
+        "address": "0x047817a0239ADe03DE7F4C076395989FCA2A585D",
+        "tokensAllocated": 5833333,
+        "assigned": false
+      },
+      {
+        "name": "User 63",
+        "address": "0x825Bc3aB7411335392A498651439295dA848F885",
+        "tokensAllocated": 10000000,
+        "assigned": false
+      },
+      { "name": "User 64", "tokensAllocated": 166666, "assigned": false },
+      { "name": "User 65", "tokensAllocated": 83333, "assigned": false },
+      { "name": "User 66", "tokensAllocated": 83333, "assigned": false },
+      { "name": "User 67", "tokensAllocated": 83333, "assigned": false },
+      {
+        "name": "User 68",
+        "address": "0x8ce494f17e476a7e4388eE4455D4fB03E2B83E91",
+        "tokensAllocated": 75000,
+        "assigned": false
+      },
+      { "name": "User 69", "tokensAllocated": 250000, "assigned": false },
+      {
+        "name": "User 70",
+        "address": "0x535B02B47d5d0D8B08Ce93066c0660F717694998",
+        "tokensAllocated": 150000,
+        "assigned": false
+      },
+      { "name": "User 71", "tokensAllocated": 166666, "assigned": false },
+      {
+        "name": "User 72",
+        "address": "0x5249EfFC65c548952c8545Ec6B3ADaf78130272a",
+        "tokensAllocated": 116666,
+        "assigned": false
+      },
+      {
+        "name": "User 73",
+        "address": "0x06229241F42FB40Cd8946d0950aBa7C4A97D161C",
+        "tokensAllocated": 116666,
+        "assigned": false
+      },
+      {
+        "name": "User 74",
+        "address": "0xb96DDAFCD3cE5964267cD63652b5345E7fd337E5",
+        "tokensAllocated": 83333,
+        "assigned": false
+      },
+      {
+        "name": "User 75",
+        "address": "0xd0870DC4B7B93A9b9bb5eb8C937a892a897A5271",
+        "tokensAllocated": 125000,
+        "assigned": false
+      },
+      { "name": "User 76", "tokensAllocated": 83333, "assigned": false },
+      {
+        "name": "User 77",
+        "address": "0xc052b888dffd1c6613bba7b2b5584fab69170b8a",
+        "tokensAllocated": 225000,
+        "assigned": false
+      },
+      {
+        "name": "User 78",
+        "address": "0x886Ee2E8B19874C0d31A5691431e46e0a75A967a",
+        "tokensAllocated": 108333,
+        "assigned": false
+      },
+      {
+        "name": "User 79",
+        "address": "0xD50550844a08A443f1e1e7d78e4B596054475352",
+        "tokensAllocated": 83333,
+        "assigned": false
+      },
+      {
+        "name": "User 80",
+        "address": "0xF528812259C83c3d6389E0186b2925c7B0cFfD1B",
+        "tokensAllocated": 116666,
+        "assigned": false
+      },
+      {
+        "name": "User 81",
+        "address": "0xe8c4170F68518c3b6BC3c6c9b33A071beA44E569",
+        "tokensAllocated": 250000,
+        "assigned": false
+      },
+      { "name": "User 82", "tokensAllocated": 250000, "assigned": false },
+      {
+        "name": "User 83",
+        "address": "0x0D269A3e2df7208f6Fa9f61Fb874e853dFA4EBE9",
+        "tokensAllocated": 91666,
+        "assigned": false
+      },
+      { "name": "User 84", "tokensAllocated": 83333, "assigned": false },
+      { "name": "User 85", "tokensAllocated": 250000, "assigned": false },
+      {
+        "name": "User 86",
+        "address": "0xe6FeCEe69a9e3726324498830bB0e898A866EccC",
+        "tokensAllocated": 166666,
+        "assigned": false
+      },
+      {
+        "name": "User 87",
+        "address": "0xfc156241d9f68390270824f3e21a1488a8fa3d20",
+        "tokensAllocated": 83333,
+        "assigned": false
+      },
+      {
+        "name": "User 88",
+        "address": "0xb4D64772218d36f97974E8bB6eF0D01b026c9a14",
+        "tokensAllocated": 250000,
+        "assigned": false
+      },
+      {
+        "name": "User 89",
+        "address": "0x96C3A3795666D2e3909AA360dD2c4E6beD63Dbd7",
+        "tokensAllocated": 108333,
+        "assigned": false
+      },
+      {
+        "name": "User 90",
+        "address": "0x1758d421d8Cc3649567C37aAF25f213f5c7D4675",
+        "tokensAllocated": 125000,
+        "assigned": false
+      },
+      {
+        "name": "User 91",
+        "address": "0xa1e7C4Cd1DFEd8C8803c86B099cd2E60e79E638b",
+        "tokensAllocated": 50000,
+        "assigned": false
+      },
+      {
+        "name": "User 92",
+        "address": "0x4f9dC8C989A8143C5a9c28682BDF46c212EbEfB6",
+        "tokensAllocated": 50000,
+        "assigned": false
+      },
+      {
+        "name": "User 93",
+        "address": "0x27929aC8b6d3761F86ead55AAFFc199414Bde04B",
+        "tokensAllocated": 125000,
+        "assigned": false
+      },
+      {
+        "name": "User 94",
+        "address": "0x9fDC4be45783F5fc7859C23795CD9934E3D3C56c",
+        "tokensAllocated": 583333,
+        "assigned": false
+      },
+      {
+        "name": "User 95",
+        "address": "0xd32884dfa3219acf4a1a2fe42eee8cee6f16d264",
+        "tokensAllocated": 666666,
+        "assigned": false
+      }
+    ],
+    "daysBeforeTge": 0
+  },
+  {
+    "name": "Liquidity",
+    "tokensAllocated": 350000000,
+    "tokensUnassigned": 0,
+    "tgePercentX100": 5000,
+    "cliffDurationInMonths": 0,
+    "vestingDurationInMonths": 12,
+    "vestingPercentX100": 0,
+    "unlockEvents": [
+      { "percentX100": 5000, "unlockTime": 1723248000 },
+      { "percentX100": 0, "unlockTime": 1725926400 },
+      { "percentX100": 0, "unlockTime": 1728518400 },
+      { "percentX100": 0, "unlockTime": 1731196800 },
+      { "percentX100": 0, "unlockTime": 1733788800 },
+      { "percentX100": 0, "unlockTime": 1736467200 },
+      { "percentX100": 0, "unlockTime": 1739145600 },
+      { "percentX100": 0, "unlockTime": 1741564800 },
+      { "percentX100": 0, "unlockTime": 1744243200 },
+      { "percentX100": 0, "unlockTime": 1746835200 },
+      { "percentX100": 0, "unlockTime": 1749513600 },
+      { "percentX100": 0, "unlockTime": 1752105600 },
+      { "percentX100": 0, "unlockTime": 1754784000 },
+      { "percentX100": 5000, "unlockTime": 1754784001 }
+    ],
+    "members": [
+      {
+        "name": "Liquidity Treasury",
+        "address": "0x8B79151A107DF1b8d72546fB60d15adc27558293",
+        "tokensAllocated": 350000000,
+        "assigned": false
+      }
+    ],
+    "daysBeforeTge": 3
+  }
+]

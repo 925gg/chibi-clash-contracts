@@ -1,0 +1,78 @@
+{
+  "tgeTimestamp": 1723507200,
+  "ecosystemRewardsTreasury": "0xCe9a1D9bCeBAbA07971590daD70131Ccb3934c96",
+  "ecosystemFundTreasury": "0x0AeCa29FAe3785d2aE43CC8472dDbde22d933036",
+  "liquidityTreasury": "0x8B79151A107DF1b8d72546fB60d15adc27558293",
+  "schedules": [
+    {
+      "name": "Ecosystem Rewards",
+      "tokensAllocated": 1500000000,
+      "tgePercentX100": 1000,
+      "cliffDurationInMonths": 0,
+      "vestingDurationInMonths": 30,
+      "vestingPercentX100": 9000,
+      "members": [],
+      "daysBeforeTge": 3
+    },
+    {
+      "name": "Treasury/Ecosystem Fund",
+      "tokensAllocated": 1500000000,
+      "tgePercentX100": 1000,
+      "cliffDurationInMonths": 0,
+      "vestingDurationInMonths": 38,
+      "vestingPercentX100": 9000,
+      "members": [],
+      "daysBeforeTge": 3
+    },
+    {
+      "name": "Team",
+      "tokensAllocated": 726750000,
+      "tgePercentX100": 0,
+      "cliffDurationInMonths": 6,
+      "vestingDurationInMonths": 32,
+      "vestingPercentX100": 10000,
+      "members": [],
+      "daysBeforeTge": 0
+    },
+    {
+      "name": "Investors",
+      "tokensAllocated": 647000000,
+      "tgePercentX100": 400,
+      "cliffDurationInMonths": 1,
+      "vestingDurationInMonths": 18,
+      "vestingPercentX100": 9600,
+      "members": [],
+      "daysBeforeTge": 0
+    },
+    {
+      "name": "Advisors/Contributors",
+      "tokensAllocated": 226250000,
+      "tgePercentX100": 0,
+      "cliffDurationInMonths": 6,
+      "vestingDurationInMonths": 32,
+      "vestingPercentX100": 10000,
+      "members": [],
+      "daysBeforeTge": 0
+    },
+    {
+      "name": "KOL/Strategic Partners",
+      "tokensAllocated": 50000000,
+      "tgePercentX100": 1000,
+      "cliffDurationInMonths": 0,
+      "vestingDurationInMonths": 6,
+      "vestingPercentX100": 9000,
+      "members": [],
+      "daysBeforeTge": 0
+    },
+    {
+      "name": "Liquidity",
+      "tokensAllocated": 350000000,
+      "tgePercentX100": 5000,
+      "cliffDurationInMonths": 0,
+      "vestingDurationInMonths": 12,
+      "vestingPercentX100": 0,
+      "members": [],
+      "daysBeforeTge": 3
+    }
+  ]
+}
